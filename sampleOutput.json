@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 313,
+    "articles": [
+   {
+    "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Global PC shipments slide in Q1, Apple takes biggest hit - IDC - Reuters",
+            "description": "Global PC shipments slide in Q1, Apple takes biggest hit - IDC  Reuters",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvZ2xvYmFsLXBjLXNoaXBtZW50cy1zbGlkZS1xMS1hcHBsZS10YWtlcy1iaWdnZXN0LWhpdC1pZGMtMjAyMy0wNC0xMC_SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4A74/production/_129306091_4e95331595c0fc95339827e88af082051ba4f18a.jpg",
+            "publishedAt": "2023-04-10T07:18:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Trevor Mogg",
+            "title": "Apple sued by Baidu over fake Ernie chatbot apps on App Store",
+            "description": "Chinese tech giant Baidu has sued Apple and a number of app developers over fake versions of its AI chatbot appearing in the App Store.",
+            "url": "https://www.digitaltrends.com/mobile/apple-sued-by-baidu-over-fake-ernie-ai-apps-on-app-store/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/04/baidu-office.jpeg?resize=1200%2C630&p=1",
+            "publishedAt": "2023-04-10T03:00:11Z",
+            "content": "Chinese tech giant Baidu has sued Apple and a number of app developers over fake versions of its AI chatbot that have appeared in the App Store.\r\nBaidu unveiled its own version of OpenAIs ChatGPT and… [+2119 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Journal du geek"
+            },
+            "author": "Olivier",
+            "title": "Samsung arrête les mises à jour de sécurité pour certains smartphones Galaxy",
+            "description": "En dehors de Google pour ses Pixel, Samsung est le constructeur Android qui offre le meilleur suivi de sécurité logicielle pour ses smartphones, mais est-ce suffisant ? L'entreprise a mis à jour la liste des appareils qui ont droit aux mises à jour mensuelles…",
+            "url": "https://www.journaldugeek.com/2023/04/10/samsung-arrete-les-mises-a-jour-de-securite-pour-le-galaxy-s10/",
+            "urlToImage": "https://www.journaldugeek.com/content/uploads/2023/04/sans-titre-5-14.jpg",
+            "publishedAt": "2023-04-10T09:00:42Z",
+            "content": "En dehors de Google pour ses Pixel, Samsung est le constructeur Android qui offre le meilleur suivi de sécurité logicielle pour ses smartphones, mais est-ce suffisant ? L'entreprise a mis à jour la l… [+2527 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Applesfera.com"
+            },
+            "author": "Fran Bouzas",
+            "title": "El iPhone 15 Pro, filtrado por completo: así serán sus cámaras y su pantalla",
+            "description": "Aún quedan unos meses para que Apple anuncie de manera oficial el iPhone 15 y el iPhone 15 Pro. Lo esperable es que los de Cupertino lo hagan en algún momento de septiembre en un evento. Eso sí, las filtraciones sobre este dispositivo llevan apareciendo meses…",
+            "url": "https://www.applesfera.com/rumores/iphone-15-pro-filtrado-completo-asi-seran-sus-camaras-su-pantalla",
+            "urlToImage": "https://i.blogs.es/7ea682/diseno-sin-titulo-24/840_560.png",
+            "publishedAt": "2023-04-10T08:40:49Z",
+            "content": "Aún quedan unos meses para que Apple anuncie de manera oficial el iPhone 15 y el iPhone 15 Pro. Lo esperable es que los de Cupertino lo hagan en algún momento de septiembre en un evento. Eso sí, las … [+2451 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "MakeUseOf"
+            },
+            "author": "Gabriela Vatu",
+            "title": "MUO Giveaway: Win Two Geekom Mini PCs",
+            "description": "This spring, we're giving away two GEEKOM mini PCs. Simply sign up for our newsletter to be in with a chance of winning!",
+            "url": "https://www.makeuseof.com/muo-giveaway-april-geekom/",
+            "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/geekom-giveaway.png",
+            "publishedAt": "2023-04-10T00:39:35Z",
+            "content": "Our readers are important to us here at MUO, as we always try to find out the answers to some of the coolest questions and problems you can have. Well, the latest question we know was going through y… [+3679 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Android Authority"
+            },
+            "author": "Calvin Wankhede",
+            "title": "What is Bluetooth Low Energy (LE)?",
+            "description": "Bluetooth Low Energy (BLE) makes smartwatches and wireless accessories possible, but how does it work? Here's what you need to know.",
+            "url": "https://www.androidauthority.com/what-is-bluetooth-low-energy-ble-3310925/",
+            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/03/Bluetooth-Auracast-headphones-and-logo.jpg",
+            "publishedAt": "2023-04-10T02:19:05Z",
+            "content": "Bluetooth has become a valuable feature that many of us rely on every day. But most of the wireless devices youre likely to own today go one step beyond the classic Bluetooth and you may have not eve… [+7263 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Android Authority"
+            },
+            "author": "Edgar Cervantes",
+            "title": "The best VPN extension for Chrome: Keep your browsing private and secure!",
+            "description": "Are you looking for the best VPN extension for Chrome? Click through to find a list of our very favorite ones.",
+            "url": "https://www.androidauthority.com/best-vpn-extension-chrome-3310822/",
+            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2020/03/VPN-stock-photo-1.jpg",
+            "publishedAt": "2023-04-10T00:04:55Z",
+            "content": "Are you trying to keep your browsing safe and private? The best way to do this is by using a VPN. And if you happen to use Chrome, as over 65% of us do, you have access to Chrome extensions. This mea… [+15494 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "BGR"
+            },
+            "author": "José Adorno",
+            "title": "3D Touch was more useful than iPhone 14 Pro’s Dynamic Island",
+            "description": "Here’s a hot take: The 3D Touch feature, available on the iPhone 6S all the way through the iPhone XS, was more useful than iPhone …\nThe post 3D Touch was more useful than iPhone 14 Pro’s Dynamic Island appeared first on BGR.",
+            "url": "https://bgr.com/tech/3d-touch-was-more-useful-than-iphone-14-pros-dynamic-island/",
+            "urlToImage": "https://bgr.com/wp-content/uploads/2023/04/3D-touch-vs-dynamic-island-bgr.jpg?quality=82&strip=all",
+            "publishedAt": "2023-04-10T01:24:00Z",
+            "content": "If you buy through affiliate links, we may receive a commission, helping support our product testing. Learn more.Here’s a hot take: The 3D Touch feature, available on the iPhone 6S all the way throug… [+2378 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Internet"
+            },
+            "author": "info@thehackernews.com (The Hacker News)",
+            "title": "CISA Warns of 5 Actively Exploited Security Flaws: Urgent Action Required",
+            "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added five security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.\nThis includes three high-severity flaws in the Verit…",
+            "url": "https://thehackernews.com/2023/04/cisa-warns-of-5-actively-exploited.html",
+            "urlToImage": "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEicw1SKpG1H9PmPf9gDuYYYi3gdQD3zFQo5j0z14zimEBBMe-b7Ey9uDqInHE1TovFVk5j-kpvYYMZQ6bG0fiZK0V69Z0gHGCe2PiqDwUu5rbJvdsyMCcquDVmtT68gnm_Wu_Fjw62Gb8jQgl9lOi2VAoWOJ8m63FHfZ-6aEIQ2Vx4V6jimGDtrvw_F/s728-e3650/cisa.jpg",
+            "publishedAt": "2023-04-10T06:25:00Z",
+            "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added five security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in th… [+2473 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "iMore"
+            },
+            "author": "Palash Volvoikar",
+            "title": "Apple starts meetings with its retail workers to prevent unionization",
+            "description": "Apple has been having meetings with retail store workers to prevent them from unionizing, according to a new report.",
+            "url": "https://www.imore.com/apple/apple-starts-meetings-with-its-retail-workers-to-prevent-unionization",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/2X8EvKSgGnihcPv54t7ouk-1200-80.jpg",
+            "publishedAt": "2023-04-10T04:05:00Z",
+            "content": "Apple has had a track record with union busting, especially with its retail store employees, and it looks like the company isn't planning on changing that anytime soon. There have been talks of union… [+2259 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "iMore"
+            },
+            "author": "Palash Volvoikar",
+            "title": "Apple releases iOS 16.4.1, stops signing iOS 16.3.1 to block downgrading",
+            "description": "Apple is no longer signing iOS 16.3.1 builds after the release of iOS 16.4.1, stopping downgrades to versions earlier than iOS 16.4.",
+            "url": "https://www.imore.com/ios/apple-releases-ios-1641-stops-signing-ios-1631-to-block-downgrading",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/PvWy9zqxJgYbP4nVGaVmD3-1200-80.jpeg",
+            "publishedAt": "2023-04-10T00:04:54Z",
+            "content": "iOS 16 hasn't been the smoothest one of the lot, and we're now nearing the end of the update cycle on it. Apple recently pushed out iOS 16.4.1, with a few bug fixes, and the update is now seeding out… [+1678 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Xatakamovil.com"
+            },
+            "author": "Álvaro García M.",
+            "title": "El iPhone 15 Pro, filtrado en imágenes cinco meses antes de su presentación",
+            "description": "Sería una sorpresa mayúscula que el próximo mes de septiembre no conociésemos oficialmente los iPhone 15. De igual modo, sería también sorprendente que no tuviésemos filtraciones a estas alturas. Y para la suerte de los más ansiosos por conocer los nuevos fla…",
+            "url": "https://www.xatakamovil.com/apple/iphone-15-pro-filtrado-imagenes-cinco-meses-antes-su-presentacion",
+            "urlToImage": "https://i.blogs.es/32b252/iphone-15-filtrado/840_560.jpeg",
+            "publishedAt": "2023-04-10T07:00:41Z",
+            "content": "Sería una sorpresa mayúscula que el próximo mes de septiembre no conociésemos oficialmente los iPhone 15. De igual modo, sería también sorprendente que no tuviésemos filtraciones a estas alturas. Y p… [+2916 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Wwwhatsnew.com"
+            },
+            "author": "Nicolás Verdejo",
+            "title": "Apple patentó unos AirPods que incorporan un reproductor con pantalla táctil en su estuche de carga",
+            "description": "Apple ha presentado una patente recientemente en la Oficina de Patentes de Estados Unidos para un dispositivo de bolsillo con pantalla táctil, que también funciona como estuche de carga de auriculares inalámbricos. El dispositivo, que se puede describir como …",
+            "url": "https://wwwhatsnew.com/2023/04/10/apple-patento-unos-airpods-que-incorporan-un-reproductor-con-pantalla-tactil-en-su-estuche-de-carga/",
+            "urlToImage": "https://wwwhatsnew.com/wp-content/uploads/2023/04/airpods.jpg",
+            "publishedAt": "2023-04-10T08:00:18Z",
+            "content": "Apple ha presentado una patente recientemente en la Oficina de Patentes de Estados Unidos para un dispositivo de bolsillo con pantalla táctil, que también funciona como estuche de carga de auriculare… [+2203 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Wwwhatsnew.com"
+            },
+            "author": "Juan Diego Polo",
+            "title": "WebGPU: La nueva API para gráficos de alto rendimiento en la web",
+            "description": "El equipo de Chrome ha anunciado el lanzamiento de WebGPU, una nueva API para gráficos en la web que permite mejorar significativamente el rendimiento de los gráficos en 3D y los cálculos paralelos. Esta API es el resultado de años de desarrollo y ofrece bene…",
+            "url": "https://wwwhatsnew.com/2023/04/10/webgpu-la-nueva-api-para-graficos-de-alto-rendimiento-en-la-web/",
+            "urlToImage": "https://wwwhatsnew.com/wp-content/uploads/2023/04/graficos.jpg",
+            "publishedAt": "2023-04-10T00:00:42Z",
+            "content": "El equipo de Chrome ha anunciado el lanzamiento de WebGPU, una nueva API para gráficos en la web que permite mejorar significativamente el rendimiento de los gráficos en 3D y los cálculos paralelos. … [+2728 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Vlad Savov",
+            "title": "Apple’s 40% Plunge in PC Shipments Is Steepest Among Major Computer Makers",
+            "description": "(Bloomberg) -- Apple Inc.’s personal computer shipments declined by 40.5% in the first quarter, marking a tough start to the year for PC makers still...",
+            "url": "https://finance.yahoo.com/news/apple-40-plunge-pc-shipments-043700361.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/JK1F1eFq3Wv.c5zYsTMy6g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODA-/https://media.zenfs.com/en/bloomberg_technology_68/7658c32bb5570747c0e1e3ee9bdab178",
+            "publishedAt": "2023-04-10T04:37:00Z",
+            "content": "(Bloomberg) -- Apple Inc.s personal computer shipments declined by 40.5% in the first quarter, marking a tough start to the year for PC makers still grappling with a glut of unsold inventory.\r\nMost R… [+1941 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "GSMArena.com"
+            },
+            "author": "Ivan",
+            "title": "Week 14 in review:Moto Edge 40 Pro is official, Xiaomi 13 Ultra is coming",
+            "description": "Let's take a look back at the hottest stories of the past week. The most read was our Apple iPhone 14 Pro Max vs Samsung Galaxy S23 Ultra comparison. It's part of a new series where we try to give you a quick overview of how the most popular phones compare ag…",
+            "url": "https://www.gsmarena.com/week_14_in_reviewmoto_edge_40_pro_is_official_xiaomi_13_ultra_is_coming-news-58168.php",
+            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/19/04/week-in-review/-952x498w6/gsmarena_002.jpg",
+            "publishedAt": "2023-04-10T01:03:01Z",
+            "content": "Let's take a look back at the hottest stories of the past week. The most read was our Apple iPhone 14 Pro Max vs Samsung Galaxy S23 Ultra comparison. It's part of a new series where we try to give yo… [+3256 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "GSMArena.com"
+            },
+            "author": "Chip",
+            "title": "Top 10 trending phones of week 14",
+            "description": "Week 14's trending chart holds many of the same phones as last week, but there are still significant changes all around. Samsung's Galaxy A54 is once again the most popular phone in our database, but the second place goes to Xiaomi's Redmi Note 12 Pro. \n\nSams…",
+            "url": "https://www.gsmarena.com/top_10_trending_phones_of_week_14-news-58184.php",
+            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/19/04/top10-trending-phones/-952x498w6/gsmarena_002.jpg",
+            "publishedAt": "2023-04-10T04:06:01Z",
+            "content": "Week 14's trending chart holds many of the same phones as last week, but there are still significant changes all around. Samsung's Galaxy A54 is once again the most popular phone in our database, but… [+682 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "newsfeedback@fool.com (Sean Williams)",
+            "title": "Warren Buffett Has Gained Over $177 Billion From Only 4 Stocks",
+            "description": "Thanks to a highly concentrated portfolio, the Oracle of Omaha is sitting on a mountain of unrealized gains.",
+            "url": "https://www.fool.com/investing/2023/04/10/warren-buffett-gained-177-billion-only-4-stocks/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/727447/warren-buffett-berkshire-hathaway-brka-brkb-motley-fool.jpg",
+            "publishedAt": "2023-04-10T09:21:00Z",
+            "content": "For 58 years, Berkshire Hathaway(BRK.A 1.38%) (BRK.B 0.68%) CEO Warren Buffett has been dazzling Wall Street with his investing prowess. Although he can be wrong just like any other investor, he's ma… [+7701 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Andro4all.com"
+            },
+            "author": "David Freire",
+            "title": "¿Android o iOS? Este mapa muestra cuál es el sistema operativo más usado en cada país del mundo",
+            "description": "Desde hace mucho tiempo, el mercado de los sistemas operativos para móvil está polarizado en torno a dos actores: Android e iOS, ya que apenas existen alternativas que puedan competir con ellos porque HarmonyOS, el SO propio de Huawei, todavía cuenta con una …",
+            "url": "https://andro4all.com/android/android-o-ios-este-mapa-muestra-cual-es-el-sistema-operativo-mas-usado-en-cada-pais-del-mundo",
+            "urlToImage": "https://andro4all.com/hero/2023/04/mapa-ios-vs-android-portada.jpg?width=1200",
+            "publishedAt": "2023-04-10T05:02:40Z",
+            "content": "Descubre cómo se reparten el pastel los dos grandes sistemas operativos móviles a nivel mundial: iOS y Android\r\nDesde hace mucho tiempo, el mercado de los sistemas operativos para móvil está polariza… [+2019 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Andro4all.com"
+            },
+            "author": "JuanMi Guirado",
+            "title": "Cascos Bluetooth con 60h de batería, sonido HD, cancelación de ruido y un 20% de descuento limitado",
+            "description": "Disfrutar de un rato de música relajante tumbado en el sofá es un momento que no lo cambio por nada en el mundo. Para ello debes conseguir unos buenos cascos Bluetooth o, en su defecto, con cable que permitan reproducir música en alta definición. No es que se…",
+            "url": "https://andro4all.com/ofertas/cascos-bluetooth-con-60h-de-bateria-sonido-hd-cancelacion-de-ruido-y-un-20-de-descuento-limitado",
+            "urlToImage": "https://andro4all.com/hero/2023/04/soundcore-de-anker-life-q35.jpg?width=1200",
+            "publishedAt": "2023-04-10T06:30:58Z",
+            "content": "Estos Anker Life Q35 son una gran opción para música y cine, así como como para juegos.\r\nDisfrutar de un rato de música relajante tumbado en el sofá es un momento que no lo cambio por nada en el mund… [+3341 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Impress.co.jp"
+            },
+            "author": null,
+            "title": "iPad/Mac購入で最大2万4000円分のギフトカード、アップルの“学割”キャンペーンは本日10日まで",
+            "description": "アップル（Apple）は、学生や教職員向けに、対象のiPadやMacを購入すると最大2万4000円分のギフトカード（Apple Gift Card）を付与するキャンペーンを実施している。期間は本日10日まで。",
+            "url": "https://k-tai.watch.impress.co.jp/docs/news/1492311.html",
+            "urlToImage": "https://k-tai.watch.impress.co.jp/img/ktw/list/1492/311/01.jpg",
+            "publishedAt": "2023-04-10T04:41:13Z",
+            "content": "AppleiPadMac24000Apple Gift Card10 \r\n 22MacBook AirMac24000iPad AiriPad19000 \r\n AppleCare+20"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Impress.co.jp"
+            },
+            "author": null,
+            "title": "Apple WatchでMacを自動ロック解除できない不具合を修正、macOS Ventura 13.3.1公開",
+            "description": "Appleは、macOS Ventura 13.3.1を提供開始した。Apple Watchを使ったMacの自動アンロックが使えない不具合や、手で押している絵文字でスキントーンの選択肢が表示されない問題が修正されている。",
+            "url": "https://pc.watch.impress.co.jp/docs/news/1492255.html",
+            "urlToImage": "https://pc.watch.impress.co.jp/img/pcw/list/1492/255/01.jpg",
+            "publishedAt": "2023-04-10T02:50:50Z",
+            "content": "ApplemacOS Ventura 13.3.1Apple WatchMac \r\n IOSurfaceAccelerator(CVE-2023-28206)WebWebKit(CVE-2023-28205) \r\n macOS Big SurMontereyCVE-2023-28205Safari 16.4.1"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Impress.co.jp"
+            },
+            "author": null,
+            "title": "Siriの不具合や悪用済み脆弱性2件を修正、iOS/iPadOS 1.6.4提供開始",
+            "description": "Appleは7日、iOS 16.4.1およびiPadOS 16.4.1を提供開始した。どちらも、押している手の絵文字でスキントーンの選択肢が表示されない問題や、Siriが応答しないことがある問題を修正している。",
+            "url": "https://pc.watch.impress.co.jp/docs/news/1492227.html",
+            "urlToImage": "https://pc.watch.impress.co.jp/img/pcw/list/1492/227/01.jpg",
+            "publishedAt": "2023-04-10T02:21:21Z",
+            "content": "Apple7iOS 16.4.1iPadOS 16.4.1Siri \r\n IOSurfaceAccelerator(CVE-2023-28206)WebWebKit(CVE-2023-28205) \r\n iPhone 8iPad Pro()iPad Air(3)iPad(5)iPad mini(5)"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "Tech Desk",
+            "title": "iOS 17, watchOS 10: What to expect from Apple’s next big software updates",
+            "description": "iOS 17 and watchOS 10 are said to offer nice-to-have features and will be unveiled at WWDC 2023.",
+            "url": "https://indianexpress.com/article/technology/tech-news-technology/ios-17-watchos-10-features-supported-devices-8547835/",
+            "urlToImage": "https://images.indianexpress.com/2023/04/ios-17.jpg",
+            "publishedAt": "2023-04-10T04:36:57Z",
+            "content": "Apple will showcase iOS 17 and watchOS 10 at its upcoming developer’s conference — WWDC 2023, starting on June 5 along with a few more things. Earlier this year, rumours suggested that with iOS 17, A… [+3444 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "DIE WELT"
+            },
+            "author": "Christian Thiel",
+            "title": "So entwickeln wir uns durch Partnerbeziehungen weiter",
+            "description": "Entwickeln wir uns in Beziehungen besser als ohne? Und wie können Paare gestärkt aus Krisen hervorgehen? Die Single- und Paarberater Anna Peinelt und Christian Thiel erklären in dieser Folge, warum wir uns trennen, wenn wir das Gefühl haben, uns allein besser…",
+            "url": "https://www.welt.de/podcasts/die-sache-mit-der-liebe/article244665038/Paarberater-geben-Rat-So-entwickeln-wir-uns-durch-Partnerbeziehungen-Podcast.html",
+            "urlToImage": "https://img.welt.de/img/podcasts/die-sache-mit-der-liebe/mobile244549618/8161354277-ci16x9-w1200/DWO-Podcast-Teaser-mit-2zu3.jpg",
+            "publishedAt": "2023-04-10T09:15:02Z",
+            "content": "Abonnieren Sie den Podcast bei Apple Podcast, Spotify, Deezer, Amazon Music oder direkt per RSS-Feed. Feedback und Liebes-Fragen gern an liebe@welt.de.\r\nIm Podcast Die Sache mit der Liebe räumen die … [+448 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "DIE WELT"
+            },
+            "author": "WELT",
+            "title": "Zwei Tote nach Einsturz von Wohngebäude in Marseille gefunden",
+            "description": "Nach dem Einsturz eines Wohngebäudes in der französischen Hafenstadt Marseille gestalten sich die Rettungsarbeiten kompliziert. Acht Menschen werden vermisst, die Feuerwehr barg zwei Tote aus den Trümmern.",
+            "url": "https://www.welt.de/vermischtes/article244719604/Marseille-Zwei-Tote-nach-Einsturz-von-Wohngebaeude-gefunden.html",
+            "urlToImage": "https://img.welt.de/img/vermischtes/mobile244719606/8091350457-ci16x9-w1200/TOPSHOT-FRANCE-ACCIDENT-BUILDING.jpg",
+            "publishedAt": "2023-04-10T01:05:32Z",
+            "content": "Rund 24 Stunden nach dem Einsturz eines Gebäudes in der Innenstadt von Marseille haben Einsatzkräfte in der Nacht zum Montag zwei Tote unter den Trümmern gefunden. Angesichts der schwierigen Lage dür… [+1796 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "DIE WELT"
+            },
+            "author": "WELT",
+            "title": "Wolodymyr Selenskyj hofft auf Kriegsende im kommenden Jahr",
+            "description": "Sieben Zivilisten sind laut ukrainischen Angaben am Wochenende bei russischen Angriffen gestorben. Der ukrainische Präsident Wolodymyr Selenskyj hofft dennoch auf ein friedliches Osterfest im kommenden Jahr. Mehr im Liveticker.",
+            "url": "https://www.welt.de/politik/ausland/article244719694/Ukraine-News-Selenskyj-hofft-auf-Kriegsende-im-kommenden-Jahr.html",
+            "urlToImage": "https://img.welt.de/img/politik/ausland/mobile244719696/6561350827-ci16x9-w1200/Ukraine-Krieg-Vizekanzler-Habeck-in-der-Ukraine.jpg",
+            "publishedAt": "2023-04-10T04:19:09Z",
+            "content": "Der ukrainische Präsident Wolodymyr Selenskyj hat zu Ostern die Hoffnung geäußert, dass es in einem Jahr in der Ukraine Frieden gibt. In seiner am Sonntagabend verbreiteten Videobotschaft zeigte sich… [+5440 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "DIE WELT"
+            },
+            "author": "WELT",
+            "title": "Chinas Militär übt Blockade Taiwans – USA schicken Zerstörer",
+            "description": "China hat mit Schiffen und Kampfflugzeugen am dritten Tag seiner Militärübung eine Blockade Taiwans geübt. Auch ein Flugzeugträger war im Einsatz. Die USA reagierten, indem sie einen Zerstörer in umstrittenes Gewässer im südchinesischen Meer entsandten.",
+            "url": "https://www.welt.de/politik/ausland/article244721340/Militaermanoever-Chinas-Militaer-uebt-Blockade-Taiwans-USA-schicken-Zerstoerer.html",
+            "urlToImage": "https://img.welt.de/img/politik/ausland/mobile244721368/1771353637-ci16x9-w1200/CHINA-TAIWAN-US-POLITICS.jpg",
+            "publishedAt": "2023-04-10T07:06:56Z",
+            "content": "China hat bei seinem Militärmanöver um Taiwan die Blockade der als eigenes Territorium beanspruchten Insel durch Schiffe und Flugzeuge geübt. Am dritten und laut Plan letzten Tag der Übung seien mehr… [+4598 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Techbang.com"
+            },
+            "author": "janus",
+            "title": "前Google工程師主管：人類「寫程式」時代已經結束，讓GPT或Copilot這類的AI去做吧！",
+            "description": "未來的程式設計師，不要指望繼續從事實際的寫程式工作，因為機器正在接管這個角色。曾是Google以及Apple的工程師主管、哈佛大學電腦科學的前教授麥特·威爾許 (Matt Welsh)在芝加哥電腦協會（ACM）上發表演講，認為ChatGPI和GitHub Copilot代表了「寫程式」這件事的終結。\n<ul>\n<li>延伸閱讀:OpenAI 正式推出 GPT-4 大型語言模型，ChatGPT 更聰明了！在諸多測試中表現比人類都好</li>\n</ul>\n麥特認為，寫程式即將由機器人所取代，包括ChatGPT和Cop…",
+            "url": "https://www.techbang.com/posts/105261-former-head-of-engineering-at-google-programming-is-actually",
+            "urlToImage": "https://cdn2.techbang.com/system/excerpt_images/105261/original/aff60f9bc9f8f6f6955b0abfaaae00b6.jpg?1680837715",
+            "publishedAt": "2023-04-10T06:30:00Z",
+            "content": "GoogleApple· (Matt Welsh)ACMChatGPIGitHub Copilot\r\nChatGPTCopilotAI\r\nGoogleACM20231ACM\r\nFixie.aiCEOChatGPT\r\n601957Fortran1964Basic2010Rust\r\nGitHub CopilotCopilot\r\nCopilotCopilotCopilot\r\nCopilotCopilo… [+92 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Inside.com.tw"
+            },
+            "author": "湯皓茹",
+            "title": "想在太空站做聖誕蛋糕？要靠沙隆巴斯廠的無重力貼片「Fixpace」！",
+            "description": "以沙隆巴斯聞名的日本藥廠「久光製藥」特別為了太空人做出無重力貼片 Fixpace，幫太空人收納原子筆、刀叉、手機等小物件！",
+            "url": "https://www.inside.com.tw/article/31247-HISAMITSU-JAXA-THINK-SPACE-LIFE-Fixpace",
+            "urlToImage": "https://bucket-img.tnlmedia.com/cabinet/2023/04/34f86efe-e111-4d6c-ae45-2f63b9234517.jpg?auto=compress&fit=crop&h=630&w=1200",
+            "publishedAt": "2023-04-10T00:40:00Z",
+            "content": "MBUX \r\n Mercedes-Benz MBUX MBUX Google \r\n Podcast MBUX Mercedes-Benz AI \r\n  \r\n XXX MBUX \r\nGarmin Venu 2® MBUX AI ENERGIZING MBUX Mercedes-Benz \r\nPhoto Credit : Mercedes-Benz\r\n Garmin MBUX ENERGIZING … [+300 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Inside.com.tw"
+            },
+            "author": "Anny",
+            "title": "App Store 竄出文心一言假貨！百度提告蘋果、開發商",
+            "description": "根據路透社報導，百度發現冒牌貨在 App Store 湧出後，已經針對相關開發商以及蘋果向北京海淀區人民法院提起訴訟。",
+            "url": "https://www.inside.com.tw/article/31273-apple-sued-by-baidu-over-fake-ernie",
+            "urlToImage": "https://bucket-img.tnlmedia.com/cabinet/2023/04/8328972e-a988-4453-acb7-f011785916d0.jpg?auto=compress&fit=crop&h=630&w=1200",
+            "publishedAt": "2023-04-10T08:40:00Z",
+            "content": "MBUX \r\n Mercedes-Benz MBUX MBUX Google \r\n Podcast MBUX Mercedes-Benz AI \r\n  \r\n XXX MBUX \r\nGarmin Venu 2® MBUX AI ENERGIZING MBUX Mercedes-Benz \r\nPhoto Credit : Mercedes-Benz\r\n Garmin MBUX ENERGIZING … [+300 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Giveawayoftheday.com"
+            },
+            "author": "GOTD_Editor",
+            "title": "Foneazy Unlockit iPhone Screen Unlocker for Mac",
+            "description": "Win one of the 10 licenses for Foneazy Unlockit iPhone Screen Unlocker for Mac!\n\nBypass various security locks on iPhone: bypass MDM lock, remove the Screen Time Passcode, or remove iTunes encryption.\n\n-Remove Apple ID on iPhone/iPad without Password\n-Bypass …",
+            "url": "https://www.giveawayoftheday.com/foneazy-unlockit-iphone-screen-unlocker-2/",
+            "urlToImage": "https://giveawayoftheday.com/wp-content/uploads/og/2022/04/9a35bba0a169132588456012bd40c3cf.png",
+            "publishedAt": "2023-04-10T08:00:00Z",
+            "content": "Win one of the 10 licenses for Foneazy Unlockit iPhone Screen Unlocker for Mac!\r\nBypass various security locks on iPhone: bypass MDM lock, remove the Screen Time Passcode, or remove iTunes encryption… [+1004 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Ascii.jp"
+            },
+            "author": "ASCII",
+            "title": "アップル新型「MacBook Air」有機ELディスプレー採用説？",
+            "description": "アップルは新型MacBook Airに有機ELディスプレーを採用する可能性がある。韓国メディア報道。",
+            "url": "https://weekly.ascii.jp/elem/000/004/132/4132223/",
+            "urlToImage": "https://ascii.jp/img/2023/04/10/3520610/l/eab711b99577833b.jpg",
+            "publishedAt": "2023-04-10T08:30:00Z",
+            "content": "Apple\r\n13.3 MacBook AirELThe Elec330\r\n13.3 MacBook AirELMacBook Pro\r\nMacBook Air\r\nAppleInsiderRoss Young2024\r\nThe ElecMacBook AirELMacBook Pro"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Ascii.jp"
+            },
+            "author": "ASCII",
+            "title": "アップル拡張現実ヘッドセット、発表延期かも",
+            "description": "アップルが開発中とされるXR（拡張現実）ヘッドセットはWWDCでは披露されない模様だ。著名アナリストが予測。",
+            "url": "https://weekly.ascii.jp/elem/000/004/132/4132219/",
+            "urlToImage": "https://ascii.jp/img/2023/04/10/3520608/l/6ca91198a70bb655.jpg",
+            "publishedAt": "2023-04-10T07:30:00Z",
+            "content": "Because Apple isn't very optimistic about the AR/MR headset announcement recreating the astounding \"iPhone moment,\" the mass production schedule for assembly has been pushed back by another 1-2 month… [+127 chars]"
+        },
+   {
+    "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "David Nield",
+            "title": "New Google Pixel 7a image leaks show off the phone in three colors",
+            "description": "What appear to be official photos of the Google Pixel 7a have made their way online, showing off its design.",
+            "url": "https://www.techradar.com/news/new-google-pixel-7a-image-leaks-show-off-the-phone-in-three-colors",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/BSgAjQ9ssouLMij4gxcjAU-1200-80.jpg",
+            "publishedAt": "2023-04-10T09:30:52Z",
+            "content": "We think the Google Pixel 7a is going to be breaking cover in the next month or two, and newly leaked images of the phone have arrived: they show off the Pixel 7a in three different colors, including… [+2454 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Paul Karp Chief political correspondent",
+            "title": "Media companies slam proposed reforms to Australian privacy laws",
+            "description": "Coalition of organisations says changes would have ‘devastating impact on press freedom’ and are not in public interest<ul><li>Follow our Australia news live blog for the latest updates</li><li>Get our morning and afternoon news emails, free app or daily news…",
+            "url": "https://www.theguardian.com/media/2023/apr/06/media-companies-slam-proposed-reforms-to-australian-privacy-laws",
+            "urlToImage": "https://i.guim.co.uk/img/media/3b1b71cefbe227ec662c4cd5f54c762a0de28e86/0_275_8256_4954/master/8256.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b195fe4c421147f529a9cf75882730ad",
+            "publishedAt": "2023-04-10T00:20:31Z",
+            "content": "Media companies have rejected a proposal to reform Australian privacy law, warning that the changes including a right to sue outlets for serious invasions of privacy are not in the public interest an… [+4112 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Antyweb.pl"
+            },
+            "author": "Tomasz Szwast",
+            "title": "Mały smartfon z najwyższej półki? Chętnych (podobno) brakuje",
+            "description": "Mały smartfon to urządzenie, które najprawdopodobniej na dobre przeszło do historii. Urządzenia, z których obecnie korzystamy to kompromis między ergonomią a wygodą przeglądania multimediów. Szukasz czegoś mniejszego, ale topowego? Obawiam się, że nie znajdzi…",
+            "url": "https://antyweb.pl/maly-smartfon-kto-chce-go-kupic",
+            "urlToImage": "https://antyweb.pl/img/1250/550/fit/wp-content/uploads/2023/03/gixthauz4g/iphone-5s-maly-smartfon.jpg",
+            "publishedAt": "2023-04-10T07:06:19Z",
+            "content": "Nieprzypadkowo na grafice tytuowej niniejszego materiau znalaz si wanie ten smartfon. iPhone SE (a take wydane w identycznej obudowie modele 5 i 5S) uchodzi swego czasu za wzór ergonomii. Do dzi bard… [+7636 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Actualidadiphone.com"
+            },
+            "author": "Ruben Gallardo",
+            "title": "Cómo usar AirDrop en PC con Windows",
+            "description": "AirDrop es un viejo conocido de los usuarios de Apple. Es la manera más sencilla de compartir todo tipo de...",
+            "url": "https://www.actualidadiphone.com/como-usar-airdrop-en-pc-con-windows/",
+            "urlToImage": "https://www.actualidadiphone.com/wp-content/uploads/2023/04/airdrop-para-windows-iphone.jpg",
+            "publishedAt": "2023-04-10T06:00:18Z",
+            "content": "AirDrop es un viejo conocido de los usuarios de Apple. Es la manera más sencilla de compartir todo tipo de archivos entre equipos de la manzana mordida. Sin embargo, ¿se puede usar AirDrop en PC con … [+6058 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Tinhte.vn"
+            },
+            "author": "tu57200111@yahoo.com.vn (Tuanhtran), Tuanhtran",
+            "title": "Baidu kiện Apple và các ứng dụng giả mạo Ernie Bot",
+            "description": "Baidu kiện một số nhà phát triển app và cho rằng họ đã tạo ra một bản sao giả mạo Ernie Bot trên App Store. Họ cũng kiện Apple vì dung túng cho những app fake đó xuất hiện trên App Store mà không có động thái nào…",
+            "url": "https://tinhte.vn/thread/baidu-kien-apple-va-cac-ung-dung-gia-mao-ernie-bot.3655277/",
+            "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2023/04/6390299_r.png",
+            "publishedAt": "2023-04-10T06:26:26Z",
+            "content": "Nu anh em có theo dõi, chc có nh ch mi mt tháng trc Ernie ã gây tht vng ngay trong thi im ra mt (gia tháng 3) vi nhng bình lun phê phán con bot AI này trên khp các mng xã hi và c phiu ca Baidu cng gi… [+226 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Skift"
+            },
+            "author": "Skift",
+            "title": "Google Lifts Ideas From Instagram for New Hotel Search Tool",
+            "description": "Today’s edition of Skift’s daily podcast looks at Google’s Instagram inspiration, Club Med’s upscaling, and Malaga’s sustainable tourism support. -Rashaad Jorden",
+            "url": "https://skift.com/2023/04/10/google-lifts-ideas-from-instagram-for-new-hotel-search-tool/",
+            "urlToImage": "https://skift.com/wp-content/uploads/2021/12/9255B8E8-615F-4148-B568-AD250F91DEF2.jpeg",
+            "publishedAt": "2023-04-10T09:14:05Z",
+            "content": "Good morning from Skift. Its Monday, April 10. Heres what you need to know about the business of travel today.\r\nApple Podcasts | Spotify | Overcast | Google Podcasts\r\nGoogle is turning to a popular s… [+2473 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Publico.pt"
+            },
+            "author": "publico@publico.pt, publico@publico.pt, publico@publico.pt",
+            "title": "P24. “Uma boa inclusão dos migrantes passa por garantir celeridade no acesso à documentação”",
+            "description": "Neste P24 ouvimos um excerto da entrevista à ministra Adjunta e dos Assuntos Parlamentares, Ana Catarina Mendonça Mendes.",
+            "url": "https://www.publico.pt/2023/04/10/politica/noticia/p24-boa-inclusao-migrantes-passa-garantir-celeridade-acesso-documentacao-2045535",
+            "urlToImage": "https://imagens.publico.pt/imagens.aspx/1796073?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Podcasts.png",
+            "publishedAt": "2023-04-10T05:58:00Z",
+            "content": "A ministra Adjunta e dos Assuntos Parlamentares, Ana Catarina Mendonça Mendes, vai tutelar a Agência Portuguesa para as Minorias, Migrações e Asilo (APMMA), aprovada, na quinta-feira, em Conselho de … [+606 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Elespanol.com"
+            },
+            "author": "C�sar Rebolledo",
+            "title": "FREE FIRE | Códigos de hoy lunes 10 de abril de 2023 - Recompensas gratis",
+            "description": "<!--cache-->Estos son todos los códigos gratis de Garena Free Fire que podrás canjear hoy, lunes 10 de abril de 2023. Consigue recompensas como skins, diamantes y mucho más.<!--aa--->El éxito para móviles Android e iOS, Garena Free Fire, ha recibido nuevos có…",
+            "url": "https://vandal.elespanol.com/noticia/1350761416/free-fire-codigos-de-hoy-lunes-10-de-abril-de-2023-recompensas-gratis/",
+            "urlToImage": "https://media.vandal.net/i/ivandal/1200x630/4-2023/20234108104549_1.jpg",
+            "publishedAt": "2023-04-10T06:11:00Z",
+            "content": "El xito para mviles Android e iOS, Garena Free Fire, ha recibido nuevos cdigos diarios para hoy lunes 10 de abril de 2023. Los jugadores pueden canjear estos cdigos para recibir recompensas variadas … [+2487 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Sam Reynolds, Michael J. Casey",
+            "title": "First Mover Asia: Is a ‘Sharp Move’ Around the Corner for Bitcoin and Ether?",
+            "description": "ALSO: In his latest Money Reimagined column, CoinDesk Chief Content Officer Michael Casey ties the recent political and regulatory backlash toward the crypto industry to the alleged misdeeds of disgraced FTX CEO Sam Bankman-Fried. Will the current climate dri…",
+            "url": "https://www.coindesk.com/markets/2023/04/10/first-mover-asia-is-a-sharp-move-around-the-corner-for-bitcoin-and-ether/",
+            "urlToImage": "https://www.coindesk.com/resizer/2r9V1eP0kobPxO0fCOJrZHb_uYY=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/AYMWQNK3RZFMXP2QRLDDPEN6PA.jpg",
+            "publishedAt": "2023-04-10T00:50:18Z",
+            "content": "Good morning. Heres whats happening:\r\nPrices: Ethereum's Shanghai upgrade is a few days away, but this isn't translating into selling pressure because most staked Ether is at a loss.\r\nInsights: In hi… [+5316 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Zive.cz"
+            },
+            "author": "Lukáš Václavík",
+            "title": "Staré, ošklivé a s modrou obrazovkou smrti. Takhle si Apple představuje PC",
+            "description": "Apple má na webu knihovnu SF Symbols 4 čítající skoro 4500 různých ikonek a obrázků, které mohou vývojáři používat, aby aplikace měly konzistentní vzhled. Obrázky jsou dostupné ve formě vektorů, takže jim lze měnit barvy a libovolně škálovat jejich velikost.\n…",
+            "url": "https://www.zive.cz/clanky/stare-osklive-a-s-modrou-obrazovkou-smrti-takhle-si-apple-predstavuje-pc/sc-3-a-221600/default.aspx",
+            "urlToImage": "https://www.zive.cz/getthumbnail.aspx?q=100&height=20000&width=20000&id_file=646374740",
+            "publishedAt": "2023-04-10T08:45:00Z",
+            "content": "Apple má na webu knihovnu SF Symbols 4 ítající skoro 4500 rzných ikonek a obrázk, které mohou vývojái pouívat, aby aplikace mly konzistentní vzhled. Obrázky jsou dostupné ve form vektor, take jim lze… [+745 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Taisy0.com"
+            },
+            "author": "taisy0",
+            "title": "最大24,000円分のApple Gift Cardが貰えるAppleの学生・教職員向けキャンペーンは本日まで!!",
+            "description": "Apple Japanが、2月初めより実施している毎年恒例の学生・教職員向けのキャンペーン「新学期を始めよう」は本日までです。 本キャンペーンは、対象のMacまたはiPadを購入すると、最大24,000円分のApple  ...",
+            "url": "https://taisy0.com/2023/04/10/170516.html",
+            "urlToImage": "https://taisy0.com/wp-content/uploads/2023/02/th_SS-2023-02-02-7.24.12.jpg",
+            "publishedAt": "2023-04-10T06:01:32Z",
+            "content": "Apple Japan2\r\nMaciPad24,000Apple Gift Card\r\nMac24,000iPad19,000MaciMac 24MacBook ProMacBook AiriPadiPad ProiPad AirApple!!\r\n Apple Japan\r\n4%Apple\r\n202345Apple!! 4%Apple410"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Taisy0.com"
+            },
+            "author": "taisy0",
+            "title": "Appleの｢M3｣チップは台湾TSMCの3nmプロセス｢N3E｣で量産か",
+            "description": "工商時報が、Appleの「iPhone 15 Pro」シリーズに搭載されるとみられる「A17 」チップや次期Macに搭載されるであろう「M3」チップは台湾TSMCの3nmプロセスを採用して製造されると報じています。 Ap ...",
+            "url": "https://taisy0.com/2023/04/10/170519.html",
+            "urlToImage": "https://taisy0.com/wp-content/uploads/2023/04/th_AppleM3.jpg",
+            "publishedAt": "2023-04-10T08:52:32Z",
+            "content": "AppleiPhone 15 ProA17 MacM3TSMC3nm\r\nApple3nm1iPhone 15MacBook AiriPad ProiPad AirTSMC3nm N3E\r\nN3E2022TSMC3nmN3\r\nQualcommMediaTekTSMC4nm3nmApple\r\nM3MacBook Air 13/15\r\nvia WCCFTech"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Sapo.pt"
+            },
+            "author": "Pedro Simões",
+            "title": "Quais os países onde o Android ou o iOS é mais usado? Veja a lista completa",
+            "description": "Falar de smartphones é, invariavelmente, falar de Android e de iOS. Estes são os sistemas mais usado no mercado e os que representam melhor as escolhas dos utilizadores. Com um domínio evidente, fica a...",
+            "url": "https://pplware.sapo.pt/?p=915361",
+            "urlToImage": "https://pplware.sapo.pt/wp-content/uploads/2023/04/android_ios_usado_1.jpg",
+            "publishedAt": "2023-04-10T00:30:55Z",
+            "content": "Falar de smartphones é, invariavelmente, falar de Android e de iOS. Estes são os sistemas mais usado no mercado e os que representam melhor as escolhas dos utilizadores. Com um domínio evidente, fica… [+1918 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "SamMobile"
+            },
+            "author": "Abid Iqbal Shaik",
+            "title": "Galaxy S23 takes longer to charge wirelessly even with first-party chargers",
+            "description": "Most smartphone brands are consistently increasing wireless charging speed on their smartphones. Some phones like the OnePlus 10 Pro, Oppo X6 Pro, Vivo X90 Pro+, and Xiaomi 13 Pro offer jaw-dropping wireless charging wattage of 50W, completing a full charge i…",
+            "url": "https://www.sammobile.com/news/galaxy-s23-slower-wireless-charging-speed-galaxy-s22/",
+            "urlToImage": "https://www.sammobile.com/wp-content/uploads/2023/04/Samsung-Wireless-Charger-720x405.jpg",
+            "publishedAt": "2023-04-10T08:47:54Z",
+            "content": "Most smartphone brands are consistently increasing wireless charging speed on their smartphones. Some phones like the OnePlus 10 Pro, Oppo X6 Pro, Vivo X90 Pro+, and Xiaomi 13 Pro offer jaw-dropping … [+2419 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "SamMobile"
+            },
+            "author": "Abid Iqbal Shaik",
+            "title": "Galaxy laptops could get better web graphics via Chrome’s WebGPU feature",
+            "description": "Google has announced WebGPU, an API that gives web browsers more access to your device’s GPU for better 3D graphics performance and data-parallel computation on the web. Google has implemented WebGPU in Chrome 113, which is currently in the beta testing stage…",
+            "url": "https://www.sammobile.com/news/google-announces-webgpu-support-for-chrome/",
+            "urlToImage": "https://www.sammobile.com/wp-content/uploads/2023/04/Google-Chrome-WebGPU-Support-720x405.jpg",
+            "publishedAt": "2023-04-10T08:14:35Z",
+            "content": "Google has announced WebGPU, an API that gives web browsers more access to your devices GPU for better 3D graphics performance and data-parallel computation on the web. Google has implemented WebGPU … [+1361 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Tweakers.net"
+            },
+            "author": "Arnoud Wokke",
+            "title": "Pebble-oprichter wil kleine Android-telefoon maken en dat is een grote uitdaging",
+            "description": "De oprichter van smartwatchmerk Pebble is begonnen met de ontwikkeling van een kleine Android-smartphone. Dat zal een behoorlijke uitdaging worden, want het is lastig en duur om een smartphonebedrijf uit de grond te stampen.",
+            "url": "https://tweakers.net/nieuws/208128/pebble-oprichter-wil-kleine-android-telefoon-maken-en-dat-is-een-grote-uitdaging.html",
+            "urlToImage": "https://tweakers.net/ext/i/2005703458.jpeg",
+            "publishedAt": "2023-04-10T04:00:00Z",
+            "content": "De oprichter van smartwatchmerk Pebble is begonnen met de ontwikkeling van een kleine Android-smartphone. Dat zal een behoorlijke uitdaging worden, want het is lastig en duur om een smartphonebedrijf… [+9289 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Iphones.ru"
+            },
+            "author": "Никита Горяинов",
+            "title": "Идеальный беспроводной видеозвонок. Обзор Aqara G4 с поддержкой HomeKit и распознаванием лиц",
+            "description": "Впечатления от тестирования самого хайпового и функционального беспроводного видеозвонка с поддержкой Home и iPhone, всего за 9 тысяч рублей.",
+            "url": "https://www.iphones.ru/iNotes/idealnyy-besprovodnoy-videozvonok-obzor-aqara-g4-s-podderzhkoy-homekit-i-raspoznavaniem-lic-03-28-2023",
+            "urlToImage": "https://www.iphones.ru/wp-content/plugins/wonderm00ns-simple-facebook-open-graph-tags/fbimg.php?img=https%3A%2F%2Fwww.iphones.ru%2Fwp-content%2Fuploads%2F2023%2F03%2Faqara-g4-smart-doorbell-homekit-review-iphonesru-main-1.jpg",
+            "publishedAt": "2023-04-10T07:00:54Z",
+            "content": "« ». .   , . . . .\r\n «» , «» . : , , Apple. \r\n Aqara. G4 «» . , . .\r\n 2 , 2 . . , .\r\n Aqara G4\r\n , .\r\nAqara G4 , Apple Home. , , .\r\n : . , , . : «» , -, Apple «» Apple Home, Aqara ( ).\r\n , .\r\n 1080p … [+1086 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Iphones.ru"
+            },
+            "author": "Илья Сидоров",
+            "title": "Apple предупредила сотрудников 270 Apple Store в США о рисках создания профсоюзов",
+            "description": "Менеджеры Apple за последние две недели провели встречи с сотрудниками 270 Apple Store, на которых обсуждались риски создания профсоюзов. Они сообщили, что профсоюзу необходимо делать ежемесячные отчисления в размере 1,5% от зарплаты. Но эта цифра может со вр…",
+            "url": "https://www.iphones.ru/iNotes/apple-predupredila-sotrudnikov-270-apple-store-v-ssha-o-riskah-sozdaniya-profsoyuzov-04-10-2023",
+            "urlToImage": "https://www.iphones.ru/wp-content/plugins/wonderm00ns-simple-facebook-open-graph-tags/fbimg.php?img=https%3A%2F%2Fwww.iphones.ru%2Fwp-content%2Fuploads%2F2023%2F04%2F2545_FP733837.jpg",
+            "publishedAt": "2023-04-10T06:03:15Z",
+            "content": "Apple 270 Apple Store, .\r\n , 1,5% . . , , Apple Store .\r\n Apple : -. [Bloomberg]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Robert Pearl, M.D., Contributor, \n Robert Pearl, M.D., Contributor\n https://www.forbes.com/sites/robertpearl/",
+            "title": "Healthcare Regulators’ Outdated Thinking Will Cost American Lives",
+            "description": "How quickly can artificial intelligence and other technologies improve American healthcare? Unfortunately, only as fast as U.S. regulators will allow.",
+            "url": "https://www.forbes.com/sites/robertpearl/2023/04/10/outdated-thinking-by-healthcare-regulators-will-cost-american-lives/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6432d8f366dad8b068b0e670/0x0.jpg?format=jpg&crop=3108,1747,x0,y0,safe&width=1200",
+            "publishedAt": "2023-04-10T07:00:00Z",
+            "content": "Healthcare is changing as technology races ahead. U.S. regulators need to catch up, says Dr. Robert ... [+] Pearl. \r\ngetty\r\nIn a matter of months, ChatGPT has radically altered our nations views on a… [+10594 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Expansion.com"
+            },
+            "author": "expansion.com",
+            "title": "La Primera de Expansión sobre Santander, BBVA, BYD, Tesla y las novedades de la Declaración de la Renta",
+            "description": "El podcast de este lunes también les cuenta que el gigante chino BYD estudia instalar una fábrica en España y que Tesla hará lo mismo en Shanghai. En el terreno fiscal, en vísper",
+            "url": "https://www.expansion.com/podcasts/2023/04/10/64339efc468aebca228b45bb.html",
+            "urlToImage": "https://phantom-expansion.unidadeditorial.es/5381a399aba303792ea69b927ea394f4/f/jpg/assets/multimedia/imagenes/2023/04/10/16811046267566.jpg",
+            "publishedAt": "2023-04-10T05:40:12Z",
+            "content": "La Primera de Expansión les habla hoy de la banca española, que seguirá sumando un beneficio de más de 20.000 millones de euros en los próximos tres años.El podcast de este lunes también les cuenta q… [+571 chars]"
+        },
+   {
+    "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "urielblanco",
+            "title": "Lo último sobre el trabajo híbrido: ¿Quién trabaja desde casa y quién no?",
+            "description": "El trabajo a distancia se volvió recurrente debido a la pandemia, pero ahora las cosas han cambiado a un esquema de corte híbrido.",
+            "url": "https://cnnespanol.cnn.com/2023/04/09/lo-ultimo-sobre-el-trabajo-hibrido-quien-trabaja-desde-casa-y-quien-no-trax/",
+            "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2023/04/trabajo-distancia.jpg?quality=100&strip=info",
+            "publishedAt": "2023-04-10T02:02:36Z",
+            "content": "Pierde su empleo por culpa de la inteligencia artificial 6:04\r\n(CNN) -- A medida que la economía se desacelera, ¿empiezan los empresarios a recuperar el control en las negociaciones con los empleados… [+6863 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Blessthisstuff.com"
+            },
+            "author": "INCHARGE X KEYCHAIN CHARGER CABLE",
+            "title": "INCHARGE X KEYCHAIN CHARGER CABLE",
+            "description": "Meet the Swiss Army Knife of cables. The ingenious inCharge X Keychain Charger Cable is a portable, 6in1 charging cable that delivers up to 100W of power. It supports fast charging, data transfer, and Apple?s Fast Charging up to 27W, making it compatible with…",
+            "url": "https://www.blessthisstuff.com/stuff/technology/misc-gadgets/incharge-x-keychain-charger-cable/",
+            "urlToImage": "https://cdn.blessthisstuff.com/imagens/stuff/incharge-x-keychain-charger-cable.jpg",
+            "publishedAt": "2023-04-10T00:00:00Z",
+            "content": "Meet the Swiss Army Knife of cables. The ingenious inCharge X Keychain Charger Cable is a portable, 6in1 charging cable that delivers up to 100W of power. It supports fast charging, data transfer, an… [+1074 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Iculture.nl"
+            },
+            "author": "Gonny van der Zwaag | iCulture.nl",
+            "title": "Ons wensenlijstje voor Apple Music Classical: 5 verbeteringen die we willen zien",
+            "description": "De introductie van Apple Music Classical is een eerste stap voor Apple op het gebied van klassieke muziek. Maar het kan nog veel beter: hier is ons wensenlijstje voor een verbeterde Apple Music Classical.\nHet artikel Ons wensenlijstje voor Apple Music Classic…",
+            "url": "https://www.iculture.nl/nieuws/apple-music-classical-wensenlijst/",
+            "urlToImage": "https://www.iculture.nl/wp-json/social-image-generator/v1/image/1353064/?v=12800011681099480",
+            "publishedAt": "2023-04-10T07:00:42Z",
+            "content": "De Apple Music Classical-app is sinds een tijdje verkrijgbaar voor iedereen die abonnee is van Apple Music. Het is een stap in de goede richting, maar toch is nog niet alles helemaal perfect. Wij gev… [+4086 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Ipadizate.com"
+            },
+            "author": "Sergio J. Ortiz",
+            "title": "Esta es la fecha en la que Apple anunciará sus resultados fiscales del segundo cuarto de 2023",
+            "description": "Han pasado un par de meses desde que Apple comunicó sus resultados fiscales del primer cuarto de año, que también comprenden las cifras de ventas del periodo navideño de 2022. Durante la conferencia, la compañía indicó sus cifras de ventas de iPhone, iPad, Ma…",
+            "url": "https://ipadizate.com/apple/esta-es-la-fecha-en-la-que-apple-anunciara-sus-resultados-fiscales-del-segundo-cuarto-de-2023",
+            "urlToImage": "https://ipadizate.com/hero/2023/04/3476.jpg?width=1200",
+            "publishedAt": "2023-04-10T08:01:50Z",
+            "content": "Apple anunciará pronto los resultados fiscales del segundo cuarto de 2023\r\nHan pasado un par de meses desde que Apple comunicó sus resultados fiscales del primer cuarto de año, que también comprenden… [+1895 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Xakep.ru"
+            },
+            "author": "Мария Нефёдова",
+            "title": "Apple выпустила экстренные патчи для iPhone и Mac",
+            "description": "Разработчики Apple исправили две 0-day уязвимости в iOS, iPadOS, macOS и браузере Safari, которые уже использовались хакерами.",
+            "url": "https://xakep.ru/2023/04/10/third-apple-2023-0day/",
+            "urlToImage": "https://xakep.ru/wp-content/uploads/2023/04/421010/aspple_dr.jpg",
+            "publishedAt": "2023-04-10T08:30:50Z",
+            "content": "Apple 0-day  iOS, iPadOS, macOS   Safari, .\r\n CVE-2023-28206 out-of-bounds IOSurfaceAccelerator, , . .\r\n (CVE-2023-28205) use-after-free WebKit,  . - .\r\n iOS 16.4.1, iPadOS 16.4.1, macOS Ventura 13.3… [+233 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Vnexpress.net"
+            },
+            "author": "VnExpress",
+            "title": "Chân dung iPhone 15 Pro qua ảnh dựng",
+            "description": "Khung máy iPhone 15 Pro có thể dùng chất liệu titan, bỏ nút gạt rung, camera dày gấp đôi iPhone 14 Pro và có màu mới.",
+            "url": "https://vnexpress.net/chan-dung-iphone-15-pro-qua-anh-dung-4591281.html",
+            "urlToImage": "https://vcdn1-sohoa.vnecdn.net/2023/04/10/iPhone-15-Pro-9098-1681086740.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=3TMigjBgWKMs4iQmabT3ig",
+            "publishedAt": "2023-04-10T00:32:39Z",
+            "content": "Khung máy iPhone 15 Pro có th dùng cht liu titan, b nút gt rung, camera dày gp ôi iPhone 14 Pro và có màu mi.Trang 9to5Mac tng hp các ngun tin rò r v iPhone 15 Pro và dng nh cho thy sn phm s có nhiu … [+2310 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Vnexpress.net"
+            },
+            "author": "VnExpress",
+            "title": "Biểu đồ lý giải cuộc đại sa thải ở Twitter",
+            "description": "Doanh thu trên mỗi nhân viên của Twitter trước khi tỷ phú Elon Musk tiếp quản đã giảm gần 19% từ 2018 đến 2022.",
+            "url": "https://vnexpress.net/bieu-do-ly-giai-cuoc-dai-sa-thai-o-twitter-4591028.html",
+            "urlToImage": "https://vcdn1-sohoa.vnecdn.net/2023/04/08/elon-musk-twitter-1680925979-5247-1680926126.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=CFEgVpqyWhhn6PN2GCN6Vw",
+            "publishedAt": "2023-04-10T05:32:54Z",
+            "content": "Doanh thu trên mi nhân viên ca Twitter trc khi t phú Elon Musk tip qun ã gim gn 19% t 2018 n 2022.Mt phân tích ni b trong h s gi lên y ban Giao dch và Chng khoán M (SEC) cho thy, trc khi Elon Musk mu… [+2002 chars]"
+        },
+   {
+    "source": {
+                "id": "wirtschafts-woche",
+                "name": "Wirtschafts Woche"
+            },
+            "author": "Georg Buschmann",
+            "title": "Podcast - BörsenWoche: Was ist besser: ETF oder Aktie?",
+            "description": "Die Zahl der Aktionäre in Deutschland steigt. Das Wachstum kommt vor allem aus Investments in ETFs. Finanzprofessor Hans-Peter Burghof erklärt im Podcast, welche Vor- und Nachteile Aktien und ETFs haben.",
+            "url": "https://www.wiwo.de/podcast/boersenwoche/podcast-boersenwoche-was-ist-besser-etf-oder-aktie/29082938.html",
+            "urlToImage": "https://www.wiwo.de/images/podcast-boersenwoche_teaser/28239652/2-format11240.jpg",
+            "publishedAt": "2023-04-10T06:00:00Z",
+            "content": "Disclaimer: Dieser Podcast ist keine Anlageberatung, sondern dient lediglich der Information und Unterhaltung. Die Hosts oder der Verlag übernehmen keine Haftung für Anlageentscheidungen, die ihr auf… [+557 chars]"
+        },
+   {
+    "source": {
+                "id": "wirtschafts-woche",
+                "name": "Wirtschafts Woche"
+            },
+            "author": "Jannik Deters",
+            "title": "Beste Bedingungen für Start-ups: Stuttgart ist jetzt die Hauptstadt für Gründer",
+            "description": "Eine Studie hat die Startbedingungen für Gründer in den größten deutschen Städten untersucht. Stuttgart und Düsseldorf liegen ganz vorne – die Start-up-Hauptstadt Berlin landet nur noch auf Rang 10. Was ist da los?",
+            "url": "https://www.wiwo.de/erfolg/gruender/beste-bedingungen-fuer-start-ups-stuttgart-ist-jetzt-die-hauptstadt-fuer-gruender/29084110.html",
+            "urlToImage": "https://www.wiwo.de/images/start-up-in-nrw/29084150/2-format11240.jpg",
+            "publishedAt": "2023-04-10T06:53:33Z",
+            "content": "Berlin hat Oliver Samwer und seine Brüder. Vor mehr als 20 Jahren legten sie mit ihren Firmen Alando und Jamba den Grundstein für den heutigen Gründergeist in der Hauptstadt. Keimzelle für eine ganze… [+7749 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Techviral.net"
+            },
+            "author": "Himanshu Panchal",
+            "title": "Amazon Courtesy Credit: What it is &0;&0;&0;&0;&0;&0;&0;&0;&0;&0;&0;&0;&0;iPhone 15 Pro’&&&0;s Latest Renders Reveal New Design, Buttons, &0;&0;&0;&0;&0;&0;&0;&0;&0;&0;&0;&0;&0;&0;&0;&0;&0;&0;&0;&0;&0;&0;&0;&0;&0;&0;&0;&0;&0;&0;&0;&0;&0;&0;&0;&0;&0;&0;&0;&0;&0;&0;&0;&0;&0;&0;&&0;&0;&0;&0;",
+            "description": "We all know Apple is going to release iPhone 15 series in the last four months of this year, but waiting to see all design changes via the official announcement is hard because there are still around five months left. But in this article, you can now get a co…",
+            "url": "https://techviral.net/iphone-15-pros-latest-renders-reveal-new-design/",
+            "urlToImage": "https://techviral.net/wp-content/uploads/2023/04/iPhone-15-Pros-Latest-Renders-Reveal-New-Design-Buttons-More.jpg",
+            "publishedAt": "2023-04-10T06:56:41Z",
+            "content": "We all know Apple is going to release iPhone 15 series in the last four months of this year, but waiting to see all design changes via the official announcement is hard because there are still around… [+1526 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Reuters",
+            "title": "Global PC shipments slide in Q1, Apple takes biggest hit - IDC",
+            "description": "In the report published Sunday, the International Data Corporation (IDC) said global PC shipments numbered 56.9 million in the first quarter of this year...",
+            "url": "https://finance.yahoo.com/news/global-pc-shipments-slide-q1-071814441.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/3fdc22057775492be992d61064465a94",
+            "publishedAt": "2023-04-10T07:18:14Z",
+            "content": "(Reuters) - Global shipments of personal computers (PCs) fell by 29% in the first quarter of 2023 due to weak demand, excess inventory and a deteriorating macroeconomic climate, with Apple Inc taking… [+1912 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Fortune Business Insights",
+            "title": "Baked Savory Snacks Market to Hit USD 75.83 Billion by 2029 | At a CAGR of 6.37%",
+            "description": "Key companies covered in baked savory snacks market are General Mills Inc. (U.S.), Kellogg's Company (U.S.), Orkla ASA (Norway), Consolidated Biscuit Co. Ltd...",
+            "url": "https://finance.yahoo.com/news/baked-savory-snacks-market-hit-065600517.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Dn34WsZwNyGG22914_5X_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0zMjM-/https://media.zenfs.com/en/globenewswire.com/ac20c8cfaf7139a95119e96f01afcfac",
+            "publishedAt": "2023-04-10T06:56:00Z",
+            "content": "Fortune Business Insights\r\nKey companies covered in baked savory snacks market are General Mills Inc. (U.S.), Kellogg's Company (U.S.), Orkla ASA (Norway), Consolidated Biscuit Co. Ltd (Malta), Europ… [+10691 chars]"
+        },
+   {
+    "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Monte Bovill",
+            "title": "Doctor's hospital colleagues credited with saving him after he was allegedly 'stabbed' by a patient",
+            "description": "Hospital colleagues are credited with saving the life of a senior doctor who was allegedly stabbed by a patient while at work in an emergency department in Tasmania.",
+            "url": "https://www.abc.net.au/news/2023-04-10/senior-doctor-life-saved-after-stabbing-at-burnie-hospital/102205438",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/9978298df018ece7193fcf967b0ba2f2?impolicy=wcms_crop_resize&cropH=720&cropW=1280&xPos=0&yPos=0&width=862&height=485",
+            "publishedAt": "2023-04-10T03:02:38Z",
+            "content": "The actions from colleagues of a doctor who was critically injured after being allegedly stabbed by a patient at one of Tasmania's major hospitals have been described as \"life-saving\".\r\nKey points:\r\n… [+2841 chars]"
+        },
+   {
+    "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Bengals Wire",
+            "title": "Underrated player named strong fit for Bengals still in free agency",
+            "description": "Could the Bengals bargain shop and find some big help in free agency still?",
+            "url": "https://bengalswire.usatoday.com/2023/04/09/bengals-free-agency-underrated-player-named-strong-fit/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.FB7ZHfIPoY_O7IA5rwkvg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/cincinnati_bengals_wire_usa_today_sports_articles_393/be75554f2530d493d51238896c1fa53b",
+            "publishedAt": "2023-04-10T02:00:46Z",
+            "content": "The Cincinnati Bengals might just be done with free agency until the front office sees how the draft plays out before evaluating the roster again.\r\nBut that doesnt mean there arent good fits left on … [+1310 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Iphon.fr"
+            },
+            "author": "iPhon.fr",
+            "title": "iPhone 15 Pro : les bordures autour de l’écran, encore plus minces ?",
+            "description": "Le futur smartphone haut de gamme se montre dans de nouvelles fuites.",
+            "url": "https://www.iphon.fr/post/iphone-15-pro-bordures-autour-minces",
+            "urlToImage": "https://www.iphon.fr/app/uploads/2022/12/iphone-15-pro-max.jpg",
+            "publishedAt": "2023-04-10T07:56:31Z",
+            "content": "Selon des photos partagées il y a tout juste quelques heures, les bordures autour de la dalle du futur iPhone 15 Pro seraient plus minces que jamais. Un informateur a en effet pu  mettre la main sur … [+2248 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Moneycontrol"
+            },
+            "author": "Bloomberg",
+            "title": "Tough year for PCs as Appleâs Q1 shipments plunge 40%",
+            "description": "Shipments by all PC makers combined slumped 29% to 56.9 million units â and fell below the levels of early 2019 â as the demand surge driven by pandemic-era remote work evaporated, according to IDCâs latest report.",
+            "url": "https://www.moneycontrol.com/news/world/tough-year-for-pcs-as-apples-q1-shipments-plunge-40-10388021.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/04/397256482-1-770x433.jpg",
+            "publishedAt": "2023-04-10T05:38:50Z",
+            "content": "Apple Inc.s personal computer shipments declined by 40.5% in the first quarter, marking a tough start to the year for PC makers still grappling with a glut of unsold inventory.\r\nShipments by all PC m… [+1732 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Wallpaper*"
+            },
+            "author": "Anne Soward",
+            "title": "Roman-inspired ‘Ottavia’ chair by Cristina Celestino for Fendi Casa makes its debut",
+            "description": "‘Ottavia’ chair by Cristina Celestino for Fendi Casa is among our Salone del Mobile 2023 highlights, featured in May Wallpaper*, on sale 13 April",
+            "url": "https://www.wallpaper.com/design-interiors/ottavia-chair-fendi-casa-cristina-celestino-salone-del-mobile-2023",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/qmu43kQH6kxWhEKDe7kj4Z-1200-80.jpg",
+            "publishedAt": "2023-04-10T07:12:18Z",
+            "content": "Discover the Wallpaper* guide to Salone del Mobile 2023 and Milan Design Week \r\nA longtime collaborator with Fendi Casa, Italian designer Cristina Celestino has been creating striking additions to th… [+1202 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Technews.tw"
+            },
+            "author": "邱 倢芯",
+            "title": "「成立工會很危險」，蘋果與零售員工舉行全國性會議討論風險",
+            "description": "眾所皆知，蘋果向來相當反對 Apple Store 員工成立工會，不過仍無法阻止馬里蘭州陶森鎮的 Apple Store 與俄克拉荷馬城的 Apple Store 成立工會。據《彭博社》報導，蘋果現在為了繼續努力阻止其他 Apple Store 成立工會，與旗下零售店員工舉辦全國性的會議，來討論成立...",
+            "url": "https://technews.tw/2023/04/10/apple-store-unionization/",
+            "urlToImage": "https://img.technews.tw/wp-content/uploads/2023/01/05110405/Apple-Fifth-Avenue-New-York-interior-01-220916.jpg",
+            "publishedAt": "2023-04-10T05:36:12Z",
+            "content": "Apple Store Apple Store Apple Store Apple Store \r\n Mark Gurman Apple Store \r\n Apple Store 1.5% \r\n Apple Store \r\n Apple Store Apple Store Apple Store \r\nGurman"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Technews.tw"
+            },
+            "author": "邱 倢芯",
+            "title": "外媒開箱特斯拉無線充電盤：重、貴、不能替 Apple Watch 充電",
+            "description": "還記得去年 12 月時，特斯拉（Tesla）宣布推出一款設計概念近似於蘋果 AirPower 的 Qi 無線充電盤嗎？當時特斯拉官網就標示，這款產品會於今年 3 月開始陸續出貨，而現在就有外媒開箱了這款要價 300 美元（約台幣 9,111 元）的無線充電盤。 據《MacRumors》報導，特斯拉這...",
+            "url": "https://ccc.technews.tw/2023/04/10/tesla-wireless-charging-platform/",
+            "urlToImage": "https://img.technews.tw/wp-content/uploads/2022/12/23110610/%E6%88%AA%E5%9C%96-2022-12-23-%E4%B8%8A%E5%8D%8811.03.18-e1671764780671.png",
+            "publishedAt": "2023-04-10T03:24:45Z",
+            "content": "12 Tesla AirPower Qi 3 300 9,111 \r\nMacRumors Alcantara Cybertruck \r\n LogoLogo LED USB-C \r\nMacRumors USB-C 65W Cybertruck\r\n AirPower 3 15W iPhone 7.5W QiFreePower AirPower Apple Watch \r\n 3 2 AirPods\r\n… [+15 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Technews.tw"
+            },
+            "author": "MoneyDJ",
+            "title": "IDC：Q1 全球 PC 出貨量暴減 29%，蘋果狂減四成最慘",
+            "description": "最新數據顯示，由於 COVID-19 疫情期間激增的遠距工作需求散去，2023 年第一季（1-3 月）全球個人電腦（PC）出貨量驟跌 29%，延續前一季的大跌趨勢。其中，蘋果（Apple）出貨量跌幅高達 40%，在所有品牌中表現最慘烈。 根據市場研究公司IDC 4月9日發布的最新報告，2023年第一...",
+            "url": "https://technews.tw/2023/04/10/global-pc-shipments-plummeted-29percent-in-q1/",
+            "urlToImage": "https://img.technews.tw/wp-content/uploads/2022/01/04120349/laptop_computer.jpg",
+            "publishedAt": "2023-04-10T07:25:21Z",
+            "content": "COVID-19 2023 1-3 PC 29%Apple 40%\r\nIDC 492023PC202229%5,69052019PC\r\n22.4%Lenovo30.3%%1,270HPDell24.2%31.0%202240.5%30.3%390\r\nSourceIDC\r\nIDCJitesh UbraniPC\r\nIDCPCWindows 11PC\r\n202412%18%10%8802018\r\nCh… [+59 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Pinkbike.com"
+            },
+            "author": null,
+            "title": "Movies For Your Monday - Minnaar, Goldstone, Ropelato, Bam Margera, Canoe Craftsmanship, & More",
+            "description": "20 edits to start your week off right.( Photos: 1 )",
+            "url": "https://www.pinkbike.com/news/movies-for-your-monday-minnaar-goldstone-ropelato-bam-margera-canoe-craftsmanship-and-more.html",
+            "urlToImage": "https://ep1.pinkbike.org/p4pb24090771/p4pb24090771.jpg",
+            "publishedAt": "2023-04-10T07:00:00Z",
+            "content": "The Eighth - V10 Development: Ep2: Yes: the eighth generation V10 with VPP is faster. But even faster and newer bikes require some extra time for riders to get back up to speed. Imagine our surprise,… [+7954 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Epravda.com.ua"
+            },
+            "author": "Українська правда",
+            "title": "Apple стала лідером зі скорочення поставок комп'ютерів у першому кварталі",
+            "description": "Поставки персональних комп'ютерів Apple впали в першому кварталі 2023 року на 40,5%, що зробило американську компанію лідером за цим показником серед великих світових виробників.",
+            "url": "https://www.epravda.com.ua/news/2023/04/10/698951/",
+            "urlToImage": "https://eimg.pravda.com/images/doc/6/9/698951_fb_image_ukr_2023_04_10_11_36_15.png",
+            "publishedAt": "2023-04-10T08:43:20Z",
+            "content": "' Apple 2023 40,5%, .\r\nBloomberg  International Data Corporation.\r\n IDC, 29% 56,9 - 2019 , , , .\r\n Lenovo Group Ltd. Dell Technologies Inc. 30%, HP Inc. - 24,2%. , Asustek Computer Inc. -5 30,3%.\r\n\" … [+105 chars]"
+        },
+   {
+    "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Celtics Wire",
+            "title": "Never coach a former rival – just ask former Boston Celtics GM Danny Ainge",
+            "description": "Coaching a former nemesis on the court rarely goes well, and with AInge and Robert Horry, it very much did not.",
+            "url": "https://celticswire.usatoday.com/2023/04/10/nba-boston-celtics-ainge-horry/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/a.HQY4nFJNHgNSiJ2mJI8A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDM-/https://media.zenfs.com/en/celtics_wire_usa_today_sports_articles_699/00588e675ceed739cd88b2645c491708",
+            "publishedAt": "2023-04-10T07:00:42Z",
+            "content": "Sometimes, when your co-worker becomes your boss, the situation just isnt the same. The relationship you had with your co-worker is forever changed for the worse. This is not exactly uncommon in most… [+890 chars]"
+        },
+   {
+    "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Celtics Wire",
+            "title": "Ime Udoka reportedly in the mix for Detroit Pistons, Houston Rockets head coaching jobs",
+            "description": "Per reports, \"prominent candidates in the Rockets' search will be former Celtics coach Ime Udoka.\"",
+            "url": "https://celticswire.usatoday.com/2023/04/09/nba-boston-celtics-udoka-pistons-rockets/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/surnyczFw2hEq5uQgc_QMw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/celtics_wire_usa_today_sports_articles_699/26b75c8689061525cccab757d53635f3",
+            "publishedAt": "2023-04-10T00:57:49Z",
+            "content": "From the sound of reports coming from head coaching vacancies around the NBA becoming public knowledge, it seems that former Boston Celtics head coach Ime Udoka may not be a coaching free agent much … [+1226 chars]"
+        },
+   {
+    "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Celtics Wire",
+            "title": "Why Malcolm Brogdon should win the NBA’s Sixth Man of the Year aweard",
+            "description": "The Virginia alum has been a key part of the Celtics' excellence this season.",
+            "url": "https://celticswire.usatoday.com/2023/04/10/nba-boston-celtics-6th-man-malcolm/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/rCaggYLICIYYH4mE3Rm9LA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/celtics_wire_usa_today_sports_articles_699/ffa56f5347cdf8a86c1d11ae41f32a18",
+            "publishedAt": "2023-04-10T09:00:11Z",
+            "content": "While it has become trendy in some circles for other names to rely on recency bias for their case to win the NBAs 2023 Sixth Man of the Year award, veteran Boston Celtics point guard Malcolm Brogdon … [+995 chars]"
+        },
+   {
+    "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Celtics Wire",
+            "title": "On this day: Celtic champ Paul Westphal drafted; Chuck Connors born",
+            "description": "On this date, Hall of Fame Boston Celtics guard Paul Westphal was drafted, and former Celtics big man and famous actor Chuck Connors was born.",
+            "url": "https://celticswire.usatoday.com/lists/nba-boston-celtics-westphal-connors-history-2023/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/KLZB0nNncbgwYlrjK0weag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMDg4/https://media.zenfs.com/en/celtics_wire_usa_today_sports_articles_699/82ea5ebaa102ed068c539d506230eaf7",
+            "publishedAt": "2023-04-10T08:00:41Z",
+            "content": "On this day in Boston Celtics history, former Celtic Hall of Fame guard Paul Westphal was picked up by the team tenth overall in the 1972 NBA draft after playing his college ball at USC. Westphal wou… [+1489 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "SNY.tv"
+            },
+            "author": "SNY",
+            "title": "Knicks locked in heading into 2023 NBA playoffs: ‘We’re not done yet’",
+            "description": "The Knicks wrapped up the regular season with a 141-136 loss to the Indiana Pacers on Sunday afternoon at the Garden. Tom Thibodeau's team knows they now have to lock in heading into a first round matchup with the Cleveland Cavaliers.",
+            "url": "https://sny.tv/articles/knicks-locked-in-heading-into-2023-nba-playoffs",
+            "urlToImage": "https://media.zenfs.com/en/sny_articles_235/30779032308862c5ed59c90ad23bc5ea",
+            "publishedAt": "2023-04-10T01:48:44Z",
+            "content": "New York Knicks forward Obi Toppin (1) slaps hands with guard Quentin Grimes (6) after a basket against the Indiana Pacers during the second half at Madison Square Garden / Vincent Carchietta - USA T… [+2380 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Moneycontrol"
+            },
+            "author": "Bloomberg",
+            "title": "Tesla new battery plant cements Chinaâs place in energy storage",
+            "description": "The US electric car pioneer will manufacture its Megapack large-scale energy-storage unit in the new facility, which adds to its factory for EVs in Shanghai.",
+            "url": "https://www.moneycontrol.com/news/world/tesla-new-battery-plant-cements-chinas-place-in-energy-storage-10386981.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2022/07/Tesla-770x433.jpg",
+            "publishedAt": "2023-04-10T03:10:41Z",
+            "content": "Tesla Inc. will build a large new battery factory in Shanghai, further cementing Chinas place at the top of the global energy storage supply chain.\r\nThe US electric car pioneer will manufacture its M… [+4519 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Ixbt.com"
+            },
+            "author": "verko@corp.ixbt.com (VerKo)",
+            "title": "Яндекс объявляет «Мышеловку»: выставка легендарных мышей и трекболов, от первой оптическая мышки Apple до металлического гиганта из СССР",
+            "description": "Команда Яндекса сообщила о запуске интересного мероприятия в «Яндекс Музее». В ближайшее время все желающие могут ознакомиться с коллекцией легендарных мышей и трекболов из коллекции Михаила Павлова — сотрудника Яндекса.  \r\n Иллюстрация: Яндекс Всего за десят…",
+            "url": "https://www.ixbt.com/news/2023/04/10/jandeks-objavljaet-myshelovku-vystavka-legendarnyh-myshej-i-trekbolov-ot-pervoj-opticheskaja-myshki-apple-do.html",
+            "urlToImage": "https://www.ixbt.com/img/n1/news/2023/3/1/unnamed_large.jpeg",
+            "publishedAt": "2023-04-10T09:33:00Z",
+            "content": "« ». — . \r\n 150 . Apple — Pro Mouse, -1845 , Finnigan MAT , -01 DEC VSXXX-AA — . , , , , , , .\r\n«» « » 11 . - 15 11 . 14 , . 12 ."
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Ixbt.com"
+            },
+            "author": "jin@ixbt.com (Jin)",
+            "title": "В России начали продавать Skoda Kamiq 2023 из Европы. Сколько за них просят?",
+            "description": "В России начали продавать новые кроссоверы Skoda Kamiq 2023 году выпуска, которые была произведены в Чехии. Как пишет «Российская газета», за автомобили без пробега просят 3 150 000 рублей. Они оснащены 1,6-литровым мотором TSI мощностью 110 л.с., а также шес…",
+            "url": "https://www.ixbt.com/news/2023/04/10/skoda-kamiq-2023.html",
+            "urlToImage": "https://www.ixbt.com/img/n1/news/2023/3/1/9_f4a_large.png",
+            "publishedAt": "2023-04-10T06:04:00Z",
+            "content": "Skoda Kamiq 2023 , .\r\n « », 3 150 000 . 1,6- TSI 110 .., .\r\nSkoda Kamiq 2023 , , C- , , .\r\n MQB-A0, . 4 241 1 793 1531 2 651 . 400 1395 ( ).\r\n Style, -, , Kessy, , , , -, , , Smart link +, Android Au… [+16 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Smzdm.com"
+            },
+            "author": null,
+            "title": "百亿补贴：Apple 苹果 Mac mini 台式电脑主机（M2、8GB、256GB） 3528元包邮（满减）",
+            "description": "Apple 苹果 Mac mini 台式电脑主机（M2、8GB、256GB） 3501.81元,什么值得买甄选出拼多多优惠促销商品,包括Apple/苹果报价、多少钱等信息,认真生活,好好花钱就上什么值得买。",
+            "url": "https://www.smzdm.com/p/77216417/",
+            "urlToImage": "https://qny.smzdm.com/202304/10/6433903f947fa413.jpg_d250.jpg",
+            "publishedAt": "2023-04-10T05:08:08Z",
+            "content": "Mac mini M2 M2 Pro M2 M2 4 4 10 16 100GB/s H.264HEVCProRes ProRes RAW ProRes M2 Mac mini ProRes Final Cut ProM2 30 fps 2 8K ProRes 422 30 fps 12 4K ProRes 422 \r\n M2 Pro M2 Pro 10 6 4 19 M2 200GB / s … [+226 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Appps.jp"
+            },
+            "author": "saki",
+            "title": "iPhone14中古販売価格を維持！Samsung Galaxy S23やGoogle Pixel 7と比較して",
+            "description": "AppleのiPhone14シリーズが発売されてから半年以上が経過しましたが、最新モデルのSamsung Galaxy S23やGoogle Pixel 7と比べた、中古販売価格についての調査結果が公開され、話題になっています。",
+            "url": "https://www.appps.jp/375996/",
+            "urlToImage": "https://www.appps.jp/wp-content/uploads/2022/09/bgf.jpg",
+            "publishedAt": "2023-04-10T06:40:11Z",
+            "content": "AppleiPhone14Samsung Galaxy S23Google Pixel 7\r\nSellCell\r\nSellCell2iPhone14Samsung Galaxy S23Google Pixel 7\r\n2Galaxy S2347.7% 43.3%Pixel 751.1%45.9%iPhone1435.0%31.0%\r\nSamsungGalaxy S23 Ultra1TB255.6%… [+96 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Livejournal.com"
+            },
+            "author": "silverstarry",
+            "title": "Phillipa Soo on Asian representation in theater and film",
+            "description": "Phillipa Soo shot to fame at the age of 25 when she starred as Eliza in Hamilton, a role that got her a Tony nomination for best actress (Cynthia Erivo won for The Color Purple). She also originated the role of Natasha Rostova in the off-Broadway production o…",
+            "url": "https://ohnotheydidnt.livejournal.com/125701204.html",
+            "urlToImage": "https://l-files.livejournal.net/og_image/3616053/491020?v=1681115055",
+            "publishedAt": "2023-04-10T08:24:13Z",
+            "content": "Phillipa Soo shot to fame at the age of 25 when she starred as Eliza in Hamilton, a role that got her a Tony nomination for best actress (Cynthia Erivo won for The Color Purple). She also originated … [+1422 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "FREDZONE"
+            },
+            "author": "Haryis A.",
+            "title": "Apple iPad Pro 11 (2024) : Date de sortie, Caractéristiques, Prix – Toutes les actus !",
+            "description": "La multinationale américaine Apple n’est plus vraiment à présenter. Des smartphones aux ordinateurs portables en passant par les tablettes et bien d’autres gadgets, la marque de la pomme croquée s’est imposée comme l’un des principaux leaders des appareils in…",
+            "url": "https://www.fredzone.org/apple-ipad-pro-11-date-de-sortie-caracteristiques-prix-actus-rfh124",
+            "urlToImage": "https://www.fredzone.org/wp-content/uploads/2023/03/Apple-iPad-Pro-11.jpg",
+            "publishedAt": "2023-04-10T04:15:38Z",
+            "content": "La multinationale américaine Apple nest plus vraiment à présenter. Des smartphones aux ordinateurs portables en passant par les tablettes et bien dautres gadgets, la marque de la pomme croquée sest i… [+6274 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Novinky.cz"
+            },
+            "author": "Marek Bednář",
+            "title": "Test Toyoty Corolla Cross: Všestranně výborná",
+            "description": "Možná není tak prostorná jako karoq, ale ostatní klady Corolly Cross tuto nevýhodu zvládají bohatě vyvážit. V interiéru, který se drží tlačítek pro důležité funkce, je život příjemný, ovšem nejnovější crossover Toyoty boduje zejména jízdními vlastnostmi na če…",
+            "url": "https://www.novinky.cz/clanek/auto-automoto-testy-test-toyoty-corolla-cross-vsestranne-vyborna-40427957",
+            "urlToImage": "https://d15-a.sdn.cz/d_15/c_img_QO_7/TIaBj.jpeg?fl=cro,0,234,4509,2536%7Cres,1200,,1%7Cwebp,75",
+            "publishedAt": "2023-04-10T04:41:00Z",
+            "content": "Corola Cross me psobit jako verejí noviny  pedstavila se u v roce 2020. Jene tehdy byla urena pro thajský trh a dva roky trvalo, ne se dostala k nám do Evropy. Je to jen dalí crossover, vzniklý, aby … [+7518 chars]"
+        },
+   {
+    "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Netflix airs first Welsh language drama, Dal y Mellt",
+            "description": "Dal y Mellt becomes the first solely Welsh-language production to be shown on the streaming giant.",
+            "url": "https://www.bbc.co.uk/news/uk-wales-65223442",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F324/production/_128344226_dalymellts4c.png",
+            "publishedAt": "2023-04-10T06:10:55Z",
+            "content": "Netflix is streaming a Welsh language drama for the first time.\r\nS4C's Dal y Mellt is a crime drama airing under a new title, Rough Cut.\r\nIt is the first solely Welsh-language production to be shown … [+2712 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "FREDZONE"
+            },
+            "author": "Damien",
+            "title": "Top 20 des meilleures services de conférence live en 2023",
+            "description": "Les conférences en ligne sont devenues une partie intégrante de notre vie professionnelle et personnelle, permettant une communication rapide et facile, peu importe l’endroit où vous vous trouvez dans le monde. Mais avec des dizaines d’options sur le marché, …",
+            "url": "https://www.fredzone.org/top-20-des-meilleures-services-de-conference-live-en-2023-rgd532",
+            "urlToImage": "https://www.fredzone.org/wp-content/uploads/2023/03/services_conference_live-scaled.jpg",
+            "publishedAt": "2023-04-10T06:45:43Z",
+            "content": "Les conférences en ligne sont devenues une partie intégrante de notre vie professionnelle et personnelle, permettant une communication rapide et facile, peu importe lendroit où vous vous trouvez dans… [+25527 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Applech2.com"
+            },
+            "author": "applech2",
+            "title": "Nikon、最新のmacOSとApple Siliconをネイティブサポートした「Nikon Message Center v2.5.0」をリリース。",
+            "description": "Nikonが最新のmacOSとApple Siliconをネイティブサポートした「Nikon Message Center v2.5.0」をリリースしています。詳細は以下から。 　株式会社ニコンは日本時間2023年04\nThe post Nikon、最新のmacOSとApple Siliconをネイティブサポートした「Nikon Message Center v2.5.0」をリリース。 first appeared on AAPL Ch..",
+            "url": "https://applech2.com/archives/20230410-nikon-message-center-v2-for-apple-silicon.html",
+            "urlToImage": "https://applech2.com/wp-content/uploads/2023/04/Nikon-Message-Center-v2-5-Apple-Silicon.jpg",
+            "publishedAt": "2023-04-10T04:25:07Z",
+            "content": "2023/4/10Apple Silicon Mac\r\nNikonmacOSApple SiliconNikon Message Center v2.5.0\r\n20230406Nikon Message Center2.5macOSApple Silicon\r\nNikon Message Center 2 Ver. 2.5.0\r\n<ul><li>Intel</li><li>Apple Silic… [+522 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "99bitcoins.com"
+            },
+            "author": "Robert McCracken",
+            "title": " Frightful Times for Exchanges | This Week in Crypto – Apr 10, 2023",
+            "description": "The post  Frightful Times for Exchanges | This Week in Crypto – Apr 10, 2023 appeared first on 99 Bitcoins.\n﻿Elon Musk shows off with Twitterdoge, for years every Mac has had a hidden Bitcoin …\n  Frightful Times for Exchanges | This Week in Crypto – Apr 1…",
+            "url": "https://99bitcoins.com/bitcoin-news-summary-apr-10-2023/",
+            "urlToImage": "https://99bitcoins.com/wp-content/uploads/2023/04/out-of-business.jpg",
+            "publishedAt": "2023-04-10T05:00:23Z",
+            "content": "Elon Musk shows off with Twitterdoge, for years every Mac has had a hidden Bitcoin reference and guess how many people pay taxes on crypto? These stories and more, this week in crypto.\r\nElon Musk Cha… [+3298 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Gentlemansgazette.com"
+            },
+            "author": "Sven Raphael Schneider",
+            "title": "Cheap vs. Expensive Cufflinks: What Are the Differences?",
+            "description": "Cufflinks are a great accessory to boost stylish looks. Today, we discuss cheap versus expensive cufflinks, what you get when you buy one, and why you may want to choose one over the other. Cufflinks…",
+            "url": "https://www.gentlemansgazette.com/cheap-vs-expensive-cufflinks/",
+            "urlToImage": "https://www.gentlemansgazette.com/wp-content/uploads/2023/04/cheap-vs-expensive-cufflinks_1200x630.jpg",
+            "publishedAt": "2023-04-10T02:00:00Z",
+            "content": "Cufflinks are a great accessory to boost stylish looks. Today, we discuss cheap versus expensive cufflinks, what you get when you buy one, and why you may want to choose one over the other.\r\nCufflink… [+26018 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "The Daily Caller"
+            },
+            "author": "Diana Glebova",
+            "title": "Google, Twitter, Meta, TikTok Crawling With Hundreds Of Former Feds",
+            "description": "Google, Twitter, Meta and TikTok&#039;s executive ranks included over 200 former employees of surveillance government agencies, a Daily Caller investigation found.",
+            "url": "https://dailycaller.com/2023/04/09/google-twitter-meta-tiktok-crawling-hundreds-former-feds/",
+            "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2023/04/GettyImages-1052819754-scaled-e1680626391619.jpg",
+            "publishedAt": "2023-04-10T00:32:19Z",
+            "content": "Google, Twitter, Meta and TikTok’s executive ranks have included over 200 former employees of surveillance government agencies, creating an employment pipeline between the government and Big Tech com… [+7167 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "3dnews.ru"
+            },
+            "author": null,
+            "title": "Baidu подала в суд на Apple за распространение поддельных приложений ИИ-бота Ernie Bot",
+            "description": "Поисковый гигант Baidu подал иски против &laquo;причастных&raquo; разработчиков приложений и саму компанию Apple в связи с распространением в маркетплейсе App Store программных продуктов, якобы предоставляющих доступ к функциям чат-бота Ernie Bot, разработанн…",
+            "url": "https://3dnews.ru/1084791/baidu-podala-v-sud-na-apple-i-razrabotchikov-prilogeniy-za-rasprostranenie-lognih-kopiy-iibota-ernie-bot",
+            "urlToImage": "https://3dnews.ru/assets/external/illustrations/2023/04/10/1084791/baidu.jpg",
+            "publishedAt": "2023-04-10T06:46:00Z",
+            "content": "Baidu «» Apple App Store , - Ernie Bot, .\r\n: Baidu\r\n, - Ernie ChatGPT . Baidu, . «» , Apple.\r\n Baidu Baidu AI WeChat, Ernie . . -, Ernie, App Store , . Apple . Reuters , App Store , Ernie Bot. .\r\n, ,… [+66 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "The Boston Globe"
+            },
+            "author": "Matthew Gilbert",
+            "title": "This week’s TV: ‘Barry’ and ‘Maisel’ return, a look back at the Marathon bombing, and a Jennifer Garner thriller",
+            "description": "Amazon's “The Marvelous Mrs. Maisel” and HBO’s “Barry” are returning this week for their final seasons, and I can’t say I’m sorry to see either of them go.",
+            "url": "https://www.bostonglobe.com/2023/04/10/arts/this-weeks-tv-barry-maisel-return-look-back-marathon-bombing-jennifer-garner-thriller/",
+            "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/dux5xLXBTQhRxzdMFygdD85KPWE=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/RNXCT2XKOBDCJOVNR2YST23AJA.jpg",
+            "publishedAt": "2023-04-10T09:31:23Z",
+            "content": "Your TV GPS, Globe TV critic Matthew Gilberts look at the week ahead in television, appears every Monday morning on BostonGlobe.com. Todays column covers April 10-16.\r\nTwo viewer and Emmy favorites, … [+5916 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Android.com.pl"
+            },
+            "author": "Adam Lulek",
+            "title": "Google i nowy sposób udostępniania plików na Windowsie. Oto co wiemy o Nearby Share",
+            "description": "Apple zawsze było niedoścignione, jeśli chodzi o synchronizację plików między urządzeniami. AirDrop to funkcja, która jest z nami od wielu lat i pozwala w bezproblemowy sposób na łączenie iPhone’a z MacBookiem. Dopiero niedawno Microsoft podniósł rękawicę w t…",
+            "url": "https://android.com.pl/tech/583853-google-zapowiada-nowe-nearby-share/",
+            "urlToImage": "https://static.android.com.pl/uploads/2023/04/Nearbyshare-3.jpg",
+            "publishedAt": "2023-04-10T06:27:00Z",
+            "content": "Apple zawsze byo niedocignione, jeli chodzi o synchronizacj plików midzy urzdzeniami. AirDrop to funkcja, która jest z nami od wielu lat i pozwala w bezproblemowy sposób na czenie iPhonea z MacBookie… [+5067 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "Android.com.pl"
+            },
+            "author": "Mateusz Nowak",
+            "title": "Kopia zapasowa telefonu – jak ją zrobić i dlaczego to takie ważne? Wyjaśniamy",
+            "description": "Kopia zapasowa jest jednym z często pomijanych ustawień telefonu. O tym, jak ważny jest to element, nieraz dowiadujemy się wtedy, gdy potrzebujemy z niego skorzystać. Wtedy jest już jednak za późno, bo o zrobieniu kopii zapasowej trzeba pomyśleć, zanim będzie…",
+            "url": "https://android.com.pl/tech/585668-kopia-zapasowa-telefon/",
+            "urlToImage": "https://static.android.com.pl/uploads/2023/04/smartfon-1.jpg",
+            "publishedAt": "2023-04-10T09:37:00Z",
+            "content": "Kopia zapasowa jest jednym z czsto pomijanych ustawie telefonu. O tym, jak wany jest to element, nieraz dowiadujemy si wtedy, gdy potrzebujemy z niego skorzysta. Wtedy jest ju jednak za póno, bo o zr… [+5207 chars]"
+        },
+   {
+    "source": {
+                "id": null,
+                "name": "netzwelt"
+            },
+            "author": "Tobias Darmer",
+            "title": "Roku TV: Updates installieren und System aktualisieren - so geht's",
+            "description": "Nutzt ihr einen Roku TV oder euer Smart-TV ist mit dem Roku TV-Betriebssystem ausgestattet, müsst ihr ihn stets aktualisieren. Wir zeigen euch, wie ihr Updates installiert.\nDieser Artikel wurde einsortiert unter \nAnleitungen,Download,Fernseher & Smart-TVs,TV-…",
+            "url": "https://www.netzwelt.de/anleitung/214229-roku-tv-updates-installieren-system-aktualisierenso-gehts.html",
+            "urlToImage": "https://img.netzwelt.de/dw1600_dh900_sw1104_sh621_sx48_sy3_sr16x9_nu2/picture/original/2023/02/ohne-regelmaessige-software-updates-entgehen-euch-umstaenden-wichtige-funktionen-bekannten-roku-betriebssystems-363503.png",
+            "publishedAt": "2023-04-10T07:00:00Z",
+            "content": "WIE RICHTE ICH MEINEN SMART-TV EIN?\r\nNutzt ihr einen Roku TV oder euer Smart-TV ist mit dem Roku TV-Betriebssystem ausgestattet, müsst ihr ihn stets aktualisieren. Wir zeigen euch, wie ihr Updates in… [+1346 chars]"
+        }
+    ]
+}
